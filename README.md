@@ -22,10 +22,7 @@ die is to touch your own body!
 
 #### Technologies
 
-- html
-- css
-- javascript
-- jquery
+- C++
 
 ---
 
